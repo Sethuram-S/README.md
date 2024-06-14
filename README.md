@@ -9,7 +9,7 @@
 ## 🤔 I'm looking for help with
 - I'm seeking help with better ways to learn in the full-stack developer field and what I should learn for this.
 ## 📫 How to reach me
-- You can reach me at
+- You can reach me at:
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sethuram~s/)
 
 ![Sethuram-S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sethuram-S&theme=dark&show_icon=true&&hide=issues,contribs)
