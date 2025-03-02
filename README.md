@@ -1,6 +1,6 @@
 # Hello, I'm Sethuram_S 👋
 ---
-*Network Engineer* <img width="50" height="50" src="https://img.icons8.com/nolan/50/laptop-settings.png" alt="laptop-settings"/>
+*Sr. Network Engineer* <img width="50" height="50" src="https://img.icons8.com/nolan/50/laptop-settings.png" alt="laptop-settings"/>
 > I'm a network engineer passionate about technology and coding. I'm currently learning full-stack development to expand my skill set and explore new opportunities in the tech industry.
 ## 🌱 What I'm currently learning
 - I'm currently improving my skills in the Tech field and exploring Full Stack Developer.
